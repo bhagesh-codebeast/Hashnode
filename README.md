@@ -2,8 +2,8 @@
 *Hey Folks below are the list of articles & their respective repositories for you all to refer, have fun coding.
 
 1. Pandas
-*Article:[Pandas](https://bhagesh.tech/)
-  *Repository:[Pandas](/)
+_Article:_ [Pandas](https://bhagesh.tech/)
+_Repository:_ [Pandas](/)
 
 2. BeautifulSoup
 *Article:[BeautifulSoup](https://bhagesh.tech/)
