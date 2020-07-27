@@ -1,5 +1,5 @@
 # Hashnode
-*Hey Folks below are the list of articles & their respective repositories for you all to refer, have fun coding.
+*Hey Folks below are the list of articles & their respective repositories for you all to refer, have fun coding.*
 
 1. Pandas
 Article: [Pandas](https://bhagesh.tech/)
