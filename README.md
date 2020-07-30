@@ -5,12 +5,11 @@
 1. Pandas
 
 
-Article:
+- Hashnode Article:
 [Pandas basics & tricks every Data Science / Bioinformatics aspirant must know.](https://bhagesh.tech/pandas-basics-and-tricks-every-data-science-bioinformatics-aspirant-must-know-ckd8uiiha009mrrs1bmn3gkgo)
 
-
-Repository:
-[Pandas basics & tricks every Data Science / Bioinformatics aspirant must know.](/https://github.com/bhagesh-codebeast/Hashnode/blob/master/ckd8uiiha009mrrs1bmn3gkgo.md)
+- Medium Article:
+[Pandas basics & tricks every Data Science / Bioinformatics aspirant must know.](https://medium.com/@bhageshhunakunti/pandas-basics-tricks-every-data-science-bioinformatics-aspirant-must-know-d9f4d9e59b7d)
 
 -------------------------------------------
 
