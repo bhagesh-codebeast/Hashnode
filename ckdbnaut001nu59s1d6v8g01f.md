@@ -138,9 +138,9 @@ Output :
 </div>
 ``` 
 
-7. ID (.) & Classes (#)
+7. ID (#) & Classes (.)
 ---
-Pound (#) sign indicates `class` while period ( . ) represents `id`.
+Pound ( . ) sign indicates `class` while period ( # ) represents `id`.
 ```
 div#header+div.page
 ```
