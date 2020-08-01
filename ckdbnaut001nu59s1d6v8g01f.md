@@ -140,7 +140,7 @@ Output :
 
 7. ID (#) & Classes (.)
 ---
-Pound ( . ) sign indicates `class` while period ( # ) represents `id`.
+Period ( . ) sign indicates `class` while Pound ( # ) represents `id`.
 ```
 div#header+div.page
 ```
