@@ -20,7 +20,7 @@ Let me show you how, but before that let's understand few things.
 --
 preferably **Chrome**, other browsers (firefox, opera, safari) support these features too..
 
-2. Type in the framework name followed by `.new`
+2. Type in the framework followed by `.new`
 --
 
 -  **React** - A JavaScript library for building user interfaces
