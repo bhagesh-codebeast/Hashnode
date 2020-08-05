@@ -25,7 +25,7 @@ Let me show you how, but before that let's understand few things.
 --
 preferably **Chrome**, other browsers (firefox, opera, safari) support these features too..
 
-2. Type in the framework followed by `.new`
+2. Type in the framework followed by `.new` in the address bar
 --
 
 -  **React** - A JavaScript library for building user interfaces
@@ -102,10 +102,6 @@ Reclaim your time and improve developer experiences.
 > Support me by hitting the **subscribe** button on my **YouTube** channel  [CodeBeast](https://www.youtube.com/channel/UCHPrekRJR20NV4RxFRe6vBw)
 
 ## Keep Coding , Keep Slaying.
-
-For some cool Digital portraits & art checkout my  [IG](https://www.instagram.com/bhagesh_artbeast/) 
-
-%[https://www.instagram.com/p/Bs0kppvlulE/?utm_source=ig_web_copy_link]
 
 
 
