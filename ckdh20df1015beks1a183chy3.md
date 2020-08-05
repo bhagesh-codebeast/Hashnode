@@ -1,7 +1,12 @@
 ## In 2 seconds setup a complete Web development IDE !
 
 # Hi and welcome
-If you’re going to do any kind of (web or application) development , you’re going to spend a lot of time in front of a text editor, in setting up an environment and in manipulating them to fit your need . By the time you are done going through your system configuration, compatibility & git setup your motivation to work gets postponed & the patience , well let's not go there ...! 
+The route into the (web or application) development world can seem obfuscated at times — there’s no clear path since there are multiple programming languages, hundred of frameworks, and thousands of libraries. 
+
+Which ones should you learn and in what order? & once you have answered this question, the next thing is you spend a lot of time in front of a text editor, in setting up an environment and in manipulating them to fit your need . 
+
+
+By the time you are done going through your system configuration, compatibility & git setup your motivation to work gets postponed & the patience , well let's not go there ...! 
 #### This is where services like  [CodeSandbox](https://codesandbox.io/) can save a large chunk of our time.
 
 > what if I tell you that all you need to construct a development environment is just a browser and two words ? sounds crazy right? 
