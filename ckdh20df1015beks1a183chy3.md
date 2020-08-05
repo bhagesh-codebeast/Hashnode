@@ -1,4 +1,4 @@
-## In 2 seconds setup a complete Web development IDE !
+## Complete Web Development Environment in just 2 seconds
 
 # Hi and welcome
 The route into the (web or application) development world can seem obfuscated at times — there’s no clear path since there are multiple programming languages, hundred of frameworks, and thousands of libraries. 
