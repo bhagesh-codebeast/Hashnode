@@ -9,7 +9,7 @@ Which ones should you learn and in what order? & once you have answered this que
 By the time you are done going through your system configuration, compatibility & git setup your motivation to work gets postponed & the patience , well let's not go there ...! 
 #### This is where services like  [CodeSandbox](https://codesandbox.io/) can save a large chunk of our time.
 
-> what if I tell you that all you need to construct a development environment is just a browser and two words ? sounds crazy right? 
+> what if I tell you that all you need to setup a development environment is just a browser and two words ? sounds crazy right? 
 
 Let me show you how, but before that let's understand few things.
 
