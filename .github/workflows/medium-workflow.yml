@@ -1,17 +1,18 @@
-name: Latest medium workflow
+name: Lastest Medium Blog Post
 on:
   schedule:
     # Runs every hour
     - cron: '0 * * * *'
+  workflow_dispatch:
 
 jobs:
-  update-readme-with-medium:
-    name: Update this repo's README with latest blog posts in medium
+  update-readme-with-medium-blog:
+    name: Update this repo's README with latest Medium blog posts
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-         comment_tag_name: "MEDIUM"
-         commit_message: "Updated readme with the latest Medium data"
-         feed_list: "https://medium.com/feed/@bhageshhunakunti"
+          comment_tag_name: "MEDIUM"
+          commit_message: "Updated readme with the latest MEDIUM Blog data"
+          feed_list: "https://medium.com/feed/@bhageshhunakunti"
