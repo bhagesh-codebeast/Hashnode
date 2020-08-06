@@ -1,64 +1,7 @@
-# Hashnode
-*Hey Folks below are the list of articles & their respective repositories for you all to refer, have fun coding.*
--
-------------------------------------------
-1. Pandas
+# Bhagesh.tech
 
 
-- Hashnode Article:
-[Pandas basics & tricks every Data Science / Bioinformatics aspirant must know.](https://bhagesh.tech/pandas-basics-and-tricks-every-data-science-bioinformatics-aspirant-must-know-ckd8uiiha009mrrs1bmn3gkgo)
+## Hashnode Blog Post
+<!-- HASHNODE:START -->
+<!-- HASHNODE:END -->
 
-- Medium Article:
-[Pandas basics & tricks every Data Science / Bioinformatics aspirant must know.](https://medium.com/@bhageshhunakunti/pandas-basics-tricks-every-data-science-bioinformatics-aspirant-must-know-d9f4d9e59b7d)
-
--------------------------------------------
-
-2. BeautifulSoup
-Article:
-[BeautifulSoup](https://bhagesh.tech/)
-
-
-Repository:
-[BeautifulSoup](/)
-
--------------------------------------------
-
-3. Selenium
-Article:
-[Selenium](https://bhagesh.tech/)
-
-
-Repository:
-[Selenium](/)
-
-----------------------------------------------
-
-
-4. Webscaping
-Article:
-[Webscaping](https://bhagesh.tech/)
-
-
-Repository:
-[Webscaping](/)
-
------------------------------------------------
-
-5. Data Visualisation
-Article:
-[Data Visualisation](https://bhagesh.tech/)
-
-
-Repository:
-[Data Visualisation](/)
-
-------------------------------------------------
-
-6. SQL
--------------------------------------------------
-Article:
-[SQL](https://bhagesh.tech/)
-Repository:
-[SQL](/)
-
----------------------------------------------
