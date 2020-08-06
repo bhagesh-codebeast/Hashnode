@@ -1,5 +1,9 @@
 # Bhagesh.tech
 
+## Medium Blog Post
+<!-- MEDIUM:START -->
+
+<!-- MEDIUM:END -->
 
 ## Hashnode Blog Post
 
@@ -11,4 +15,6 @@
 - [Pandas basics & tricks every Data Science / Bioinformatics aspirant must know.](https://bhagesh.tech/pandas-basics-and-tricks-every-data-science-bioinformatics-aspirant-must-know-ckd8uiiha009mrrs1bmn3gkgo)
 
 <!-- HASHNODE:END -->
+
+
 
