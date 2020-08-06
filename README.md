@@ -22,6 +22,11 @@
 ## YouTube Videos
 
 <!-- YouTube:START -->
+- [Hacking with WSL2( Part 1) - Installing Kali & Metasploit console](https://www.youtube.com/watch?v=9TVhEDv5MmA)
+- [Kaggle 101: Learn & Earn (Introduction)](https://www.youtube.com/watch?v=cY2bkiNjvqo)
+- [STREAM HACK : Free Alternatives to Netflix & Amazon Prime.](https://www.youtube.com/watch?v=bUNMuTOxjTY)
+- [Git & GitHub Basics: Let's travel back in time.](https://www.youtube.com/watch?v=vgWg0Wqh34c)
+- [Add Blockers (Chrome Extensions): Top 3 add blocker plugins for chrome](https://www.youtube.com/watch?v=xzn5GOgAWZs)
 <!-- YouTube:END -->
 
 
