@@ -1,4 +1,5 @@
-## Accelerate ML & Data Science development : Redefining Imports in Python using Pyforest
+## Redefining Imports in Python using Pyforest :
+Accelerate ML & Data Science development
 
 # Hi and Welcome
 
