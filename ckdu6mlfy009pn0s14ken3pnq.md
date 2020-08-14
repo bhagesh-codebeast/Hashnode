@@ -4,7 +4,7 @@
 Today I learned some new terms, & their meanings w.r.t. Machine Learning (ML).
 ML seems pretty intimidating in the first look... but that isn't enough to make us not want to do something right ?
 
-> I'm going to stick to the end and learn as much as possible as fast as possible.
+> I'm going to stick till the end and learn as much as possible as fast as possible.
 
 ## Summary :
 ## A. **What Is Machine Learning? **
