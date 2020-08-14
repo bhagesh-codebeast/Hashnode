@@ -19,9 +19,9 @@ A. **What Is Machine Learning? **
 
 B. **Types of Machine Learning Systems**
 
-    1. Supervised/Unsupervised Learning
+**Supervised/Unsupervised Learning**
 
-        i. Supervised learning
+i. Supervised learning
 
             - k-Nearest Neighbors
             - Linear Regression
@@ -30,75 +30,71 @@ B. **Types of Machine Learning Systems**
             - Decision Trees and Random Forests 
             - Neural networks
 
-        ii. Unsupervised learning
+ii. Unsupervised learning
 
-           > Clustering
+> Clustering
             - K-Means 
             - DBSCAN 
             - Hierarchical Cluster Analysis (HCA) 
 
-
-           > Anomaly detection and novelty detection
+> Anomaly detection and novelty detection
             - One-class SVM 
             - Isolation Forest 
 
-
-           > Visualization and dimensionality reduction
+> Visualization and dimensionality reduction
             - Principal Component Analysis (PCA) 
             - Kernel PCA 
             - Locally Linear Embedding (LLE) 
             - t-Distributed Stochastic Neighbor Embedding (t-SNE) 
 
-
-           > Association rule learning
+> Association rule learning
             - Apriori 
             - Eclat
 
-        iii. Semisupervised learning 
+iii. Semisupervised learning 
 
-        iv. Reinforcement Learning
-
-
-
-    2. Batch and Online Learning
-
-        i. Batch learning 
-
-        ii. Online learning 
+iv. Reinforcement Learning
 
 
+**Batch and Online Learning**
 
-    3. Instance-Based Versus Model-Based Learning 
+i. Batch learning 
 
-        i. Instance-based learning 
+ii. Online learning 
 
-        ii. Model-based learning 
+
+
+**Instance-Based Versus Model-Based Learning **
+
+i. Instance-based learning 
+
+ii. Model-based learning 
 
 ---
 
 C. **Main Challenges of Machine Learning**
 
-    1. Insufficient Quantity of Training Data 
+1. Insufficient Quantity of Training Data 
 
-    2. Nonrepresentative Training Data 
+2. Nonrepresentative Training Data 
 
-    3. Poor-Quality Data
+3. Poor-Quality Data
 
-    4. Irrelevant Features 
+4. Irrelevant Features 
 
-    5. Overfitting the Training Data 
+5. Overfitting the Training Data 
 
-    6. Underfitting the Training Data 
+6. Underfitting the Training Data 
 
-    7. Stepping Back 
+7. Stepping Back 
 
 ---
 
 D. **Testing and Validating**
 
-    1. Hyperparameter Tuning and Model Selection 
+1. Hyperparameter Tuning and Model Selection 
 
-    2. Data Mismatch 
+2. Data Mismatch 
 
 ---
 
@@ -148,6 +144,6 @@ print(model.predict(X_1)) #outputs [[ 5.77 ]]
 
 
 
-**Reference material :**
+**Reference :**
 
-- **Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow:** Concepts, Tools, and Techniques to Build Intelligent Systems - by **Aurelien Geron**
+-  [**Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow:**](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)  Concepts, Tools, and Techniques to Build Intelligent Systems - by **Aurelien Geron**
