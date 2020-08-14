@@ -17,89 +17,92 @@ A. **What Is Machine Learning? **
 
 ---
 
-B. **Types of Machine Learning Systems** 
+B. **Types of Machine Learning Systems**
 
-1. Supervised/Unsupervised Learning
+    1. Supervised/Unsupervised Learning
 
-i. **Supervised learning**
+        i. Supervised learning
 
-- k-Nearest Neighbors
-- Linear Regression
-- Logistic Regression
-- Support Vector Machines (SVMs)
-- Decision Trees and Random Forests 
-- Neural networks
+            - k-Nearest Neighbors
+            - Linear Regression
+            - Logistic Regression
+            - Support Vector Machines (SVMs)
+            - Decision Trees and Random Forests 
+            - Neural networks
 
-ii. **Unsupervised learning**
+        ii. Unsupervised learning
 
-> **Clustering**
-- K-Means 
-- DBSCAN 
-- Hierarchical Cluster Analysis (HCA) 
-
-
-> **Anomaly detection and novelty detection**
-- One-class SVM 
-- Isolation Forest 
+           > Clustering
+            - K-Means 
+            - DBSCAN 
+            - Hierarchical Cluster Analysis (HCA) 
 
 
-> **Visualization and dimensionality reduction** 
-- Principal Component Analysis (PCA) 
-- Kernel PCA 
-- Locally Linear Embedding (LLE) 
-- t-Distributed Stochastic Neighbor Embedding (t-SNE) 
+           > Anomaly detection and novelty detection
+            - One-class SVM 
+            - Isolation Forest 
 
 
-> **Association rule learning** 
-- Apriori 
-- Eclat
-
-iii. **Semisupervised learning **
-
-iv. **Reinforcement Learning**
+           > Visualization and dimensionality reduction
+            - Principal Component Analysis (PCA) 
+            - Kernel PCA 
+            - Locally Linear Embedding (LLE) 
+            - t-Distributed Stochastic Neighbor Embedding (t-SNE) 
 
 
-2. Batch and Online Learning
+           > Association rule learning
+            - Apriori 
+            - Eclat
 
-i. **Batch learning **
+        iii. Semisupervised learning 
 
-ii. **Online learning **
+        iv. Reinforcement Learning
 
-3. Instance-Based Versus Model-Based Learning 
 
-i. **Instance-based learning **
 
-ii. **Model-based learning **
+    2. Batch and Online Learning
 
----
+        i. Batch learning 
 
-C. **Main Challenges of Machine Learning **
+        ii. Online learning 
 
-1. Insufficient Quantity of Training Data 
 
-2. Nonrepresentative Training Data 
 
-3. Poor-Quality Data
+    3. Instance-Based Versus Model-Based Learning 
 
-4. Irrelevant Features 
+        i. Instance-based learning 
 
-5. Overfitting the Training Data 
-
-6. Underfitting the Training Data 
-
-7. Stepping Back 
+        ii. Model-based learning 
 
 ---
 
-D. **Testing and Validating **
+C. **Main Challenges of Machine Learning**
 
-1. Hyperparameter Tuning and Model Selection 
+    1. Insufficient Quantity of Training Data 
 
-2. Data Mismatch 
+    2. Nonrepresentative Training Data 
+
+    3. Poor-Quality Data
+
+    4. Irrelevant Features 
+
+    5. Overfitting the Training Data 
+
+    6. Underfitting the Training Data 
+
+    7. Stepping Back 
 
 ---
 
-Example :
+D. **Testing and Validating**
+
+    1. Hyperparameter Tuning and Model Selection 
+
+    2. Data Mismatch 
+
+---
+
+**Example :**
 
 ```
 
@@ -145,6 +148,6 @@ print(model.predict(X_1)) #outputs [[ 5.77 ]]
 
 
 
-Reference material :
+**Reference material :**
 
 - **Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow:** Concepts, Tools, and Techniques to Build Intelligent Systems - by **Aurelien Geron**
