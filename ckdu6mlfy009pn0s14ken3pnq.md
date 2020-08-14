@@ -15,7 +15,7 @@ A. **What Is Machine Learning? **
 
 > A computer program is said to learn from experience E with respect to some task T and some performance measure P, if its performance on T, as measured by P, improves with experience E. —Tom Mitchell, 1997 
 
----
+
 
 B. **Types of Machine Learning Systems**
 
@@ -70,7 +70,7 @@ i. Instance-based learning
 
 ii. Model-based learning 
 
----
+
 
 C. **Main Challenges of Machine Learning**
 
@@ -88,7 +88,7 @@ C. **Main Challenges of Machine Learning**
 
 7. Stepping Back 
 
----
+
 
 D. **Testing and Validating**
 
@@ -96,7 +96,7 @@ D. **Testing and Validating**
 
 2. Data Mismatch 
 
----
+
 
 **Example :**
 
