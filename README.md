@@ -12,6 +12,7 @@
 ## Hashnode Blog Post
 
 <!-- HASHNODE:START -->
+- [Day 1 : Introduction To ML Mystery](https://bhagesh.tech/day-1-introduction-to-ml-mystery-ckdu6mlfy009pn0s14ken3pnq)
 - [Redefining Imports in Python using Pyforest :
 Accelerate ML & Data Science development](https://bhagesh.tech/redefining-imports-in-python-using-pyforest-accelerate-ml-and-data-science-development-ckdikbvsd008cqns1hqni139p)
 - [Setup Complete Web Development Environment in just 2 seconds](https://bhagesh.tech/setup-complete-web-development-environment-in-just-2-seconds-ckdh20df1015beks1a183chy3)
