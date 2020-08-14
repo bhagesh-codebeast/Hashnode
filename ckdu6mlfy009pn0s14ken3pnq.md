@@ -23,33 +23,33 @@ B. **Types of Machine Learning Systems**
 
 i. Supervised learning
 
-            - k-Nearest Neighbors
-            - Linear Regression
-            - Logistic Regression
-            - Support Vector Machines (SVMs)
-            - Decision Trees and Random Forests 
-            - Neural networks
+- k-Nearest Neighbors
+- Linear Regression
+- Logistic Regression
+- Support Vector Machines (SVMs)
+- Decision Trees and Random Forests 
+- Neural networks
 
 ii. Unsupervised learning
 
 > Clustering
-            - K-Means 
-            - DBSCAN 
-            - Hierarchical Cluster Analysis (HCA) 
+- K-Means 
+- DBSCAN 
+- Hierarchical Cluster Analysis (HCA) 
 
 > Anomaly detection and novelty detection
-            - One-class SVM 
-            - Isolation Forest 
+- One-class SVM 
+- Isolation Forest 
 
 > Visualization and dimensionality reduction
-            - Principal Component Analysis (PCA) 
-            - Kernel PCA 
-            - Locally Linear Embedding (LLE) 
-            - t-Distributed Stochastic Neighbor Embedding (t-SNE) 
+- Principal Component Analysis (PCA) 
+- Kernel PCA 
+- Locally Linear Embedding (LLE) 
+- t-Distributed Stochastic Neighbor Embedding (t-SNE) 
 
 > Association rule learning
-            - Apriori 
-            - Eclat
+- Apriori 
+- Eclat
 
 iii. Semisupervised learning 
 
