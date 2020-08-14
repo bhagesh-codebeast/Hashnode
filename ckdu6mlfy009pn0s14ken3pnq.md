@@ -32,22 +32,28 @@ i. Supervised learning
 
 ii. Unsupervised learning
 
-> Clustering
+Clustering
 - K-Means 
 - DBSCAN 
 - Hierarchical Cluster Analysis (HCA) 
 
-> Anomaly detection and novelty detection
+
+
+Anomaly detection and novelty detection
 - One-class SVM 
 - Isolation Forest 
 
-> Visualization and dimensionality reduction
+
+
+Visualization and dimensionality reduction
 - Principal Component Analysis (PCA) 
 - Kernel PCA 
 - Locally Linear Embedding (LLE) 
 - t-Distributed Stochastic Neighbor Embedding (t-SNE) 
 
-> Association rule learning
+
+
+Association rule learning
 - Apriori 
 - Eclat
 
