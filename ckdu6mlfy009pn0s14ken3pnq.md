@@ -1,6 +1,7 @@
 ## Day 1 : Introduction To ML Mystery
 
 ## Hi and Welcome
+
 Today I learned some new terms, & their meanings w.r.t. **Machine Learning** (ML).
 ML seems pretty intimidating in the first look... but that isn't enough to make us not want to do something right ?
 
@@ -8,7 +9,7 @@ ML seems pretty intimidating in the first look... but that isn't enough to make 
 
 ## Summary :
 
-### A. **What Is Machine Learning? **
+A. **What Is Machine Learning? **
 
 > [Machine Learning is the] field of study that gives computers the ability to learn without being explicitly programmed. —Arthur Samuel, 1959 
 
@@ -16,9 +17,9 @@ ML seems pretty intimidating in the first look... but that isn't enough to make 
 
 ---
 
-### B. **Types of Machine Learning Systems** 
+B. **Types of Machine Learning Systems** 
 
-#### 1. Supervised/Unsupervised Learning
+1. Supervised/Unsupervised Learning
 
 i. **Supervised learning**
 
@@ -58,13 +59,13 @@ iii. **Semisupervised learning **
 iv. **Reinforcement Learning**
 
 
-#### 2. Batch and Online Learning
+2. Batch and Online Learning
 
 i. **Batch learning **
 
 ii. **Online learning **
 
-#### 3. Instance-Based Versus Model-Based Learning 
+3. Instance-Based Versus Model-Based Learning 
 
 i. **Instance-based learning **
 
@@ -72,29 +73,29 @@ ii. **Model-based learning **
 
 ---
 
-### C. **Main Challenges of Machine Learning **
+C. **Main Challenges of Machine Learning **
 
-#### 1. Insufficient Quantity of Training Data 
+1. Insufficient Quantity of Training Data 
 
-#### 2. Nonrepresentative Training Data 
+2. Nonrepresentative Training Data 
 
-#### 3. Poor-Quality Data
+3. Poor-Quality Data
 
-#### 4. Irrelevant Features 
+4. Irrelevant Features 
 
-#### 5. Overfitting the Training Data 
+5. Overfitting the Training Data 
 
-#### 6. Underfitting the Training Data 
+6. Underfitting the Training Data 
 
-#### 7. Stepping Back 
+7. Stepping Back 
 
 ---
 
-### D. **Testing and Validating **
+D. **Testing and Validating **
 
-#### 1. Hyperparameter Tuning and Model Selection 
+1. Hyperparameter Tuning and Model Selection 
 
-#### 2. Data Mismatch 
+2. Data Mismatch 
 
 ---
 
@@ -144,6 +145,6 @@ print(model.predict(X_1)) #outputs [[ 5.77 ]]
 
 
 
-### Reference material :
+Reference material :
 
 - **Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow:** Concepts, Tools, and Techniques to Build Intelligent Systems - by **Aurelien Geron**
