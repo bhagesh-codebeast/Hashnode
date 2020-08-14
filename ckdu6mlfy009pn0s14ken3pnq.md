@@ -8,7 +8,7 @@ ML seems pretty intimidating in the first look... but that isn't enough to make 
 
 ## Summary :
 
-## A. **What Is Machine Learning? **
+### A. **What Is Machine Learning? **
 
 > [Machine Learning is the] field of study that gives computers the ability to learn without being explicitly programmed. —Arthur Samuel, 1959 
 
@@ -16,7 +16,7 @@ ML seems pretty intimidating in the first look... but that isn't enough to make 
 
 ---
 
-## B. **Types of Machine Learning Systems** 
+### B. **Types of Machine Learning Systems** 
 
 #### 1. Supervised/Unsupervised Learning
 
@@ -72,7 +72,7 @@ ii. **Model-based learning **
 
 ---
 
-## C. **Main Challenges of Machine Learning **
+### C. **Main Challenges of Machine Learning **
 
 #### 1. Insufficient Quantity of Training Data 
 
@@ -90,7 +90,7 @@ ii. **Model-based learning **
 
 ---
 
-## D. **Testing and Validating **
+### D. **Testing and Validating **
 
 #### 1. Hyperparameter Tuning and Model Selection 
 
@@ -144,6 +144,6 @@ print(model.predict(X_1)) #outputs [[ 5.77 ]]
 
 
 
-## Reference material :
+### Reference material :
 
 - **Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow:** Concepts, Tools, and Techniques to Build Intelligent Systems - by **Aurelien Geron**
