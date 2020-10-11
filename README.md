@@ -2,7 +2,7 @@
 
 ## Medium Blog Post
 <!-- MEDIUM:START -->
-- [Resources To Enhance Your Knowledge About COVID-19](https://medium.com/@bhageshhunakunti/resources-to-enhance-your-knowledge-about-covid-19-12903dabcdb3?source=rss-287ac3a2ea21------2)
+- [Resources To Enhance Your Knowledge About COVID-19](https://medium.com/swlh/resources-to-enhance-your-knowledge-about-covid-19-12903dabcdb3?source=rss-287ac3a2ea21------2)
 - [3D Coronavirus Protein Visualization With Python](https://medium.com/datadriveninvestor/3d-coronavirus-protein-visualization-with-python-4bda3834be1f?source=rss-287ac3a2ea21------2)
 - [Indian Authors can now earn revenue from Medium 2020](https://medium.com/@bhageshhunakunti/indian-authors-can-now-earn-revenue-from-medium-2020-d64edfdb71e6?source=rss-287ac3a2ea21------2)
 - [Redefining Imports in Python using Pyforest](https://medium.com/python-in-plain-english/accelerate-ml-ai-data-science-development-redefining-imports-in-python-using-pyforest-83fb39baba6b?source=rss-287ac3a2ea21------2)
