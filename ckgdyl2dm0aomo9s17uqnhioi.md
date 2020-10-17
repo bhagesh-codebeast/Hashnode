@@ -1,8 +1,7 @@
 ## Sci-Fi Impacting Research & Business
 
-### Database of cool **names** for your next **inventions** and **business ventures ?**
+-> Database of cool **names** for your next **inventions** and **business ventures ?**
 
-<noscript><img alt="Image for post" class="ec hm ed hn t" src="https://miro.medium.com/max/4800/1*0lAYkSpWQHcT3hrU6gA1rA.jpeg" width="2400" height="1600" srcSet="https://miro.medium.com/max/552/1*0lAYkSpWQHcT3hrU6gA1rA.jpeg 276w, https://miro.medium.com/max/1104/1*0lAYkSpWQHcT3hrU6gA1rA.jpeg 552w, https://miro.medium.com/max/1280/1*0lAYkSpWQHcT3hrU6gA1rA.jpeg 640w, https://miro.medium.com/max/1400/1*0lAYkSpWQHcT3hrU6gA1rA.jpeg 700w" sizes="700px"/></noscript>
 
 ## What is **sci-fi** A.K.A. science fiction ?
 
