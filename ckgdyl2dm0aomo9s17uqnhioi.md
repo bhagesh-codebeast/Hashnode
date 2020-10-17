@@ -1,6 +1,6 @@
 ## Sci-Fi Impacting Research & Business
 
--> Database of cool **names** for your next **inventions** and **business ventures ?**
+Database of cool **names** for your next **inventions** and **business ventures ?**
 
 
 ## What is **sci-fi** A.K.A. science fiction ?
