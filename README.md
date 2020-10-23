@@ -12,11 +12,12 @@
 ### Hashnode Blog Post
 
 <!-- HASHNODE:START -->
+- [Sci-Fi Impacting Research & Business](https://bhagesh.tech/sci-fi-impacting-research-and-business-ckgdyl2dm0aomo9s17uqnhioi)
+- [Resources To Enhance Your Knowledge About COVID-19](https://bhagesh.tech/resources-to-enhance-your-knowledge-about-covid-19-ckg471d7m04dle9s1385d5qjo)
 - [Redefining Imports in Python using Pyforest :
 Accelerate ML & Data Science development](https://bhagesh.tech/redefining-imports-in-python-using-pyforest-accelerate-ml-and-data-science-development-ckdikbvsd008cqns1hqni139p)
 - [Setup Complete Web Development Environment in just 2 seconds](https://bhagesh.tech/setup-complete-web-development-environment-in-just-2-seconds-ckdh20df1015beks1a183chy3)
 - [Trick to write CSS & HTML 100x Faster](https://bhagesh.tech/trick-to-write-css-and-html-100x-faster-ckdbnaut001nu59s1d6v8g01f)
-- [Pandas basics & tricks every Data Science / Bioinformatics aspirant must know.](https://bhagesh.tech/pandas-basics-and-tricks-every-data-science-bioinformatics-aspirant-must-know-ckd8uiiha009mrrs1bmn3gkgo)
 <!-- HASHNODE:END -->
 
 ### YouTube Videos
