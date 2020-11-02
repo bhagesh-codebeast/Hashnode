@@ -23,11 +23,11 @@ Accelerate ML & Data Science development](https://bhagesh.tech/redefining-import
 ### YouTube Videos
 
 <!-- YouTube:START -->
+- [Face mask detector: No Code ML Model (Tensorflow lite & Tensorflow)](https://www.youtube.com/watch?v=wDq1MxiQ_1M)
 - [The Ultimate IDE: ML/AI without a powerful PC](https://www.youtube.com/watch?v=9qg2e7HH1dQ)
 - [Corona virus 3D model - Blender Timelapse](https://www.youtube.com/watch?v=URVFZsEU4-I)
 - [Hacking with WSL 2 (Part 3.2): Ethical Hacking Educational purpose only](https://www.youtube.com/watch?v=p9sCCeb0mPE)
 - [Hacking with wsl 2 (Part 3.1) : Ethical Hacking For educational purpose only](https://www.youtube.com/watch?v=zLWFmqVCrkI)
-- [Hacking with WSL2 ( Part 2) - Creating a Virtual device](https://www.youtube.com/watch?v=VNoiYtRc-Mc)
 <!-- YouTube:END -->
 
 
