@@ -2,11 +2,11 @@
 
 ### Medium Blog Post
 <!-- MEDIUM:START -->
+- [Own Your Job Search With Selenium & Python](https://medium.com/@bhageshhunakunti/own-your-job-search-with-selenium-python-7371f397d487?source=rss-287ac3a2ea21------2)
 - [Boost Your R Programming Environment](https://medium.com/@bhageshhunakunti/boost-your-r-programming-environment-577d9eea9758?source=rss-287ac3a2ea21------2)
 - [Sci-Fi Impacting Research & Business -2020](https://medium.com/datadriveninvestor/sci-fi-impacting-research-business-2020-27c196f6bf9f?source=rss-287ac3a2ea21------2)
 - [Resources to Enhance Your Knowledge About COVID-19](https://medium.com/swlh/resources-to-enhance-your-knowledge-about-covid-19-12903dabcdb3?source=rss-287ac3a2ea21------2)
 - [3D Coronavirus Protein Visualization With Python](https://medium.com/swlh/3d-coronavirus-protein-visualization-with-python-4bda3834be1f?source=rss-287ac3a2ea21------2)
-- [Indian Authors can now earn revenue from Medium 2020](https://medium.com/@bhageshhunakunti/indian-authors-can-now-earn-revenue-from-medium-2020-d64edfdb71e6?source=rss-287ac3a2ea21------2)
 <!-- MEDIUM:END -->
 
 ### Hashnode Blog Post
