@@ -2,11 +2,11 @@
 
 ### Medium Blog Post
 <!-- MEDIUM:START -->
+- [Earning from Medium (For Non-Eligible Countries) — 2021 [NOT A CLICKBAIT]](https://medium.com/@bhageshhunakunti/earning-from-medium-for-non-eligible-countries-2021-not-a-clickbait-2eb3347ea413?source=rss-287ac3a2ea21------2)
 - [Protein Modeling & Drug Docking Studies](https://medium.com/@bhageshhunakunti/protein-modeling-drug-docking-studies-f5ca244277b0?source=rss-287ac3a2ea21------2)
 - [WSL Docking Environment: PyMOL & AutoDock](https://medium.com/@bhageshhunakunti/wsl-docking-environment-pymol-autodock-7e697e8c5530?source=rss-287ac3a2ea21------2)
 - [Own Your Job Search With Selenium & Python](https://medium.com/@bhageshhunakunti/own-your-job-search-with-selenium-python-7371f397d487?source=rss-287ac3a2ea21------2)
 - [Boost Your R Programming Environment](https://medium.com/@bhageshhunakunti/boost-your-r-programming-environment-577d9eea9758?source=rss-287ac3a2ea21------2)
-- [Sci-Fi Impacting Research & Business -2020](https://medium.com/datadriveninvestor/sci-fi-impacting-research-business-2020-27c196f6bf9f?source=rss-287ac3a2ea21------2)
 <!-- MEDIUM:END -->
 
 ### Hashnode Blog Post
